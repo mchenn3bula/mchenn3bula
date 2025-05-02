@@ -3,7 +3,6 @@ I'm Zhengyi Chen, a Computer Science and Data Science student passionate about A
 
 ### 🔭 I'm currently working on ...
 - A daily coversational chat-bot
-- 
 ### 🌱 I'm currently learning ...
 - Deployment strategies for ML models using AWS and Docker
 - Blockchain technologies including staking/restaking strategies and tokenomics
